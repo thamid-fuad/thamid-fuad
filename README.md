@@ -23,7 +23,7 @@ Skills:  Java Script / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **fuadtalukder09@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/thamid-fuad)
+- 📄 All About Me:[https://lnk.bio/thamid-fuad](https://lnk.bio/thamid-fuad)
 
 <h3 align="left">Connect with me:</h3>
 
